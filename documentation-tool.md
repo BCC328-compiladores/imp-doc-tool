@@ -156,7 +156,7 @@ como se segue:
 
 * Entrega 1. 
   * Tema: Análise léxica.
-  * Data limite para entrega:
+  * Data limite para entrega: 16/08/2024
 
 * Entrega 2. 
   * Tema: Análise sintática.
